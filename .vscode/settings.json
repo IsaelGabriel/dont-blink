@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Dont't Blink.sln"
+    "dotnet.defaultSolution": "dont-blink.sln"
 }
